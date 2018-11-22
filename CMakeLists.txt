@@ -14,4 +14,4 @@ set_property(GLOBAL PROPERTY TEST_LIST
 	test/CpuAffinityTest.cpp
 	test/IrqAffinityTest.cpp)
 
-install(FILES IrqAffinity.h CpuAffinity.h DESTINATION include/shetab-commons)
+install(FILES IrqAffinity.h CpuAffinity.h DESTINATION include/sadehghan)
